@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="0.000000" name="Table 1" numRows="1" numCols="16" flags="9" tableType="0" tableSkew="0">
+    <rows>
+        <row id="0" name="dialogue"/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="0" readonly="0">I&apos;ve never really fit in.</column>
+        <column id="1" name="" type="0" readonly="0">Not really.</column>
+        <column id="2" name="" type="0" readonly="1">Simply being present is not the same as being accepted.</column>
+        <column id="3" name="" type="0" readonly="1">That&apos;s a hard truth to absorb.</column>
+        <column id="4" name="" type="0" readonly="1"></column>
+        <column id="5" name="" type="0" readonly="1"></column>
+        <column id="6" name="" type="0" readonly="1">Life in the military was difficult.</column>
+        <column id="7" name="" type="0" readonly="1">Not just the combat either.</column>
+        <column id="8" name="" type="0" readonly="1">Life in any extreme is hard.</column>
+        <column id="9" name="" type="0" readonly="1">Especially when even the people you trust can become enemies.</column>
+        <column id="10" name="" type="0" readonly="1">If they knew the authentic &quot;you&quot;.</column>
+        <column id="11" name="" type="0" readonly="1"></column>
+        <column id="12" name="" type="0" readonly="1">The authentic you.</column>
+        <column id="13" name="" type="0" readonly="1">The real you.</column>
+        <column id="14" name="" type="0" readonly="1"></column>
+        <column id="15" name="" type="0" readonly="1"></column>
+    </columns>
+</table>
+

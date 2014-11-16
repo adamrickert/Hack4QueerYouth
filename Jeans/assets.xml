@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.5">
+  <sounds>
+    <sound name="laser">
+      <file name="laser.ogg" size="18422" />
+    </sound>
+    <sound name="boom">
+      <file name="boom.ogg" size="40111" />
+    </sound>
+    <sound name="EyeballBurst-SoundBible">
+      <file name="EyeballBurst-SoundBible.ogg" size="41903" />
+    </sound>
+    <sound name="GUN_FIRE-GoodSoundForYou-820112263">
+      <file name="GUN_FIRE-GoodSoundForYou-820112263.ogg" size="51917" />
+    </sound>
+  </sounds>
+  <images>
+    <image name="sunset">
+      <file name="sunset.jpg" size="8203" />
+    </image>
+    <image name="ground">
+      <file name="ground.png" size="58859" />
+    </image>
+    <image name="ship">
+      <file name="ship.png" size="6751" />
+    </image>
+    <image name="laser">
+      <file name="laser.png" size="485" />
+    </image>
+    <image name="enemy">
+      <file name="enemy.png" size="9434" />
+    </image>
+    <image name="boom00">
+      <file name="boom00.png" size="958" />
+    </image>
+    <image name="boom01">
+      <file name="boom01.png" size="5836" />
+    </image>
+    <image name="boom02">
+      <file name="boom02.png" size="11539" />
+    </image>
+    <image name="boom03">
+      <file name="boom03.png" size="19201" />
+    </image>
+    <image name="boom04">
+      <file name="boom04.png" size="25254" />
+    </image>
+    <image name="boom05">
+      <file name="boom05.png" size="26315" />
+    </image>
+    <image name="boom06">
+      <file name="boom06.png" size="27048" />
+    </image>
+    <image name="boom07">
+      <file name="boom07.png" size="27611" />
+    </image>
+    <image name="boom08">
+      <file name="boom08.png" size="27808" />
+    </image>
+    <image name="boom09">
+      <file name="boom09.png" size="27694" />
+    </image>
+    <image name="boom10">
+      <file name="boom10.png" size="27047" />
+    </image>
+    <image name="boom11">
+      <file name="boom11.png" size="26671" />
+    </image>
+    <image name="boom12">
+      <file name="boom12.png" size="24467" />
+    </image>
+    <image name="boom13">
+      <file name="boom13.png" size="23050" />
+    </image>
+    <image name="boom14">
+      <file name="boom14.png" size="20299" />
+    </image>
+    <image name="boom15">
+      <file name="boom15.png" size="19334" />
+    </image>
+    <image name="boom16">
+      <file name="boom16.png" size="17491" />
+    </image>
+    <image name="boss">
+      <file name="boss.png" size="110816" />
+    </image>
+    <image name="missile">
+      <file name="missile.png" size="1605" />
+    </image>
+    <image name="jeans_logo">
+      <file name="jeans_logo.png" size="673322" />
+    </image>
+    <image name="player_camo">
+      <file name="player_camo.png" size="28917" />
+    </image>
+    <image name="player_floral">
+      <file name="player_floral.png" size="34833" />
+    </image>
+    <image name="player_floral_2">
+      <file name="player_floral_2.png" size="34884" />
+    </image>
+    <image name="player_gingham">
+      <file name="player_gingham.png" size="34861" />
+    </image>
+    <image name="player_jeans">
+      <file name="player_jeans.png" size="48703" />
+    </image>
+    <image name="Seamless ground sand dirt crack texture">
+      <file name="Seamless ground sand dirt crack texture.png" size="1819270" />
+    </image>
+    <image name="blood_b_0001">
+      <file name="blood_b_0001.png" size="6494" />
+    </image>
+    <image name="blood_b_0002">
+      <file name="blood_b_0002.png" size="9553" />
+    </image>
+    <image name="blood_b_0003">
+      <file name="blood_b_0003.png" size="9831" />
+    </image>
+    <image name="blood_b_0004">
+      <file name="blood_b_0004.png" size="8760" />
+    </image>
+    <image name="blood_b_0005">
+      <file name="blood_b_0005.png" size="6625" />
+    </image>
+    <image name="blood_b_0006">
+      <file name="blood_b_0006.png" size="4231" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
